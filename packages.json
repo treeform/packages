@@ -10977,5 +10977,33 @@
     "description": "Nim wrapper for libtess2",
     "license": "MIT",
     "web": "https://github.com/genotrance/nimtess2"
+  },
+  {
+    "name": "digitalocean",
+    "url": "https://github.com/treeform/digitalocean.git",
+    "method": "git",
+    "tags": [
+      "digitalocean",
+      "servers",
+      "automation",
+      "devops"
+    ],
+    "description": "Wrapper for DigitalOcean HTTP API.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/digitalocean"
+  },
+  {
+    "name": "ssh",
+    "url": "https://github.com/treeform/ssh.git",
+    "method": "git",
+    "tags": [
+      "ssh",
+      "servers",
+      "automation",
+      "devops"
+    ],
+    "description": "Connect to machines over SSH to run commands.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/ssh"
   }
 ]
